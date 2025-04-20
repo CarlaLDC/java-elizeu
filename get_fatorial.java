@@ -1,6 +1,6 @@
 import java.util. Scanner;
 
-public class MainDois {
+public class Main {
     public void get_fatorial (int num ) {
 
     int soma = 1;
